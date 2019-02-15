@@ -1,7 +1,8 @@
-1. baza sql musi chodzić
+1. baza sql/postgres musi chodzić
 2. mvn clean install
 
 aplikacja w heroku:  spring-security-log-and-reg
+aplikacja w heroku:  spring-security-01
 
 
 =========
